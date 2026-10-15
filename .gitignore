@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+appsettings.Development.json
+
+# Node / React
+node_modules/
+dist/
+.env
+.env.*
+
+# Playwright
+test-results/
+playwright-report/
+.playwright-mcp/
